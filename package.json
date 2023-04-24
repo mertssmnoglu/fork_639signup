@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ratava/639signup/issues"
   },
-  "homepage": "https://github.com/ratava/639signup#readme"
+  "homepage": "https://github.com/ratava/639signup#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
